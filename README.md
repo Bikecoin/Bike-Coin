@@ -1,2 +1,2 @@
 # Bike-Coin
-Coin for Bikers around the world
+Coin designed to be earned by riding bikes.
